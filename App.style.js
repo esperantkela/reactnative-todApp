@@ -15,6 +15,9 @@ const styles = StyleSheet.create({
   footer: {
     height: 70,
   },
+  cardItem: {
+    marginBottom: 20,
+  },
 });
 
 export { styles };
